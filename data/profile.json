@@ -59,22 +59,17 @@
       "url": "https://github.com/imjopa/Spidermen-Entertainment",
       "github": true
     },
-    {
-      "name": "Certificado JavaScript",
-      "url": "https://www.dio.me/certificate/D9C3B457/share",
-      "github": true
-    }
   ],
   "professionalExperience": [
     {
-      "name": "Buscando Primeira Experiência Profissional",
-      "period": "Fev 2023 - Atualmente",
-      "description": "Estou em busca da minha primeira experiência de trabalho nesta área."
+      "name": "TETRIS IT",
+      "period": "Jan 2023 - Fev 2024",
+      "description": "Desenvolvedor Junior"
     },
     {
-      "name": "Estudante De Programação Front-End / DIO",
-      "period": "Fev 2023 - Atualmente",
-      "description": "Estudante da plataforma DIO.me, onde aprendi desde o princípio as tecnologias JavaScript, CSS, HTML e Node.js"
+      "name": "Estudante De Analise e Desenvolvimento de Sistemas | Unifeso",
+      "period": "Maio 2023 - Atualmente",
+      "description": "Estudante da universidade da Serra dos Órgãos, onde aprendo desde os princípios teóricos da programação até toda a parte prática."
     }
   ]
 }
